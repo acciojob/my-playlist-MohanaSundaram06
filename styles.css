@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.player_one ul {
+	list-style-type: none;
+}
+.player_container {
+	background-color: #ffffff; 
+  padding: 20px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px;
+}
+.player_two {
+  width: 100%; 
+  border: 1px solid white;
+  border-radius: 1px;
+}
+.video-container {
+	background-color: #ffffff;
+  text-align: center;
+  max-width: 300px; 
+  margin: 20px auto; 
+}
